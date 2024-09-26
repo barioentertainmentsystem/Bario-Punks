@@ -22,4 +22,4 @@ While you are free to build on and commercialize this project, certain values ar
 By following these guidelines, you’ll be recognized as an official Baes ally and a vital part of our ecosystem. You’ll benefit from direct collaboration, potential partnerships, and increased visibility within the Base community.
 
 ## Next Steps
-The Bario Punks open-source framework is all about pushing the boundaries of creativity and community in the Web3 space. Join us, build something amazing, and contribute to a decentralized, open future for all. 
+The Bario Punks open-source framework is all about pushing the boundaries of creativity and community in the onchain space. Join us, build something amazing, and contribute to a decentralized, open future for all. 
