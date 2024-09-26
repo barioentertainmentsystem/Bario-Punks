@@ -25,3 +25,13 @@ By following these guidelines, you’ll be recognized as an official Baes ally a
 
 ## Next Steps
 The Bario Punks open-source framework is all about pushing the boundaries of creativity and community in the onchain space. Join us, build something amazing, and contribute to a decentralized, open future for all. 
+
+
+## Important Links
+
+* Bario Entertainment System Website - https://baes.so
+* $Bario Token Website - https://bario.buzz
+* Bario Community - https://t.me/barioportal
+* Follow Bario on Twitter - https://twitter.com/basebario
+* Bario Punks NFT Collection - https://opensea.io/collection/bario-punks
+* Bario DMG-01 NFT Collection - https://opensea.io/collection/baes-bario-dmg-01
