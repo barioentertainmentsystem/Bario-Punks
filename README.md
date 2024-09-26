@@ -36,3 +36,5 @@ The Bario Punks open-source framework is all about pushing the boundaries of cre
 * Follow Bario on Twitter - https://twitter.com/basebario
 * Bario Punks NFT Collection - https://opensea.io/collection/bario-punks
 * Bario DMG-01 NFT Collection - https://opensea.io/collection/baes-bario-dmg-01
+
+![title](https://i.seadn.io/s/primary-drops/0xdc1c20df3f8ededf1466399c5d5d17d864bd3f0f/33348322:about:media:d5ecebab-5743-4e25-979a-febdac7a2eca.png?auto=format&dpr=1&w=1200)
