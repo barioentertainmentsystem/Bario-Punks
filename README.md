@@ -20,6 +20,7 @@ While you are free to build on and commercialize this project, certain values ar
 * **Royalty Sharing:** Creator royalties should not exceed 3%, and they must be equally split between you and the Baes treasury at `baes.base.eth`. This supports Bario’s ongoing development as a zero-funding startup.
 * **Ethical Guidelines:** Derivatives must not promote racism, hate speech, discrimination, or any form of harmful content. Respect for all is core to our community. Violators will not receive Baes recognition.
 * **Bario Punks Airdrop:** We encourage you to offer an airdrop to Bario Punks holders. The ratio is up to you (1:1, 1:5, 5:1).
+* **Keep it Open Source:** We encourage you to ensure your Bario Punks derivative remains open-source. Share your code and art layers freely to inspire and empower others in the ecosystem. By keeping it open, you contribute to the ethos of community collaboration and innovation. Together, we can push boundaries and build a more decentralized, creative future.
 
 By following these guidelines, you’ll be recognized as an official Baes ally and a vital part of our ecosystem. You’ll benefit from direct collaboration, potential partnerships, and increased visibility within the Base community.
 
