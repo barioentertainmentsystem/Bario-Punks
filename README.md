@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Bario Punks
 
 Welcome to the Bario Punks Open Framework, where creativity, community, and freedom thrive. All art layers and code behind Bario Punks are now open-source, available for you to build on, remix, and innovate. Feel free to explore, create, and commercialize—just follow these basic guidelines to remain part of the Bario ecosystem!
